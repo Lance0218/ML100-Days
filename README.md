@@ -13,3 +13,6 @@
 ### Day_011 EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式 Kernel Density Estimation
 ### Day_012 EDA: 把連續型變數離散化
 ### Day_013 把連續的變數離散化
+### Day_014 Subplots
+### Day_015 Heatmap & Grid-plot
+### Day_016 模型初體驗 Logistic Regression
