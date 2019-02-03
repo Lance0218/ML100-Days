@@ -1,6 +1,6 @@
 # ML100-Days
-
-### 1. 資料清理數據前處理
+<details>
+<summary>### 1. 資料清理數據前處理</summary>
   #### Day_001 資料介紹與評估指標
   #### Day_002 EDA-1/讀取資料 EDA: Data summary
   #### Day_003 3-1如何新建一個 dataframe? 3-2 如何讀取其他資料? (非 csv 的資料)
@@ -17,8 +17,10 @@
   #### Day_014 Subplots
   #### Day_015 Heatmap & Grid-plot
   #### Day_016 模型初體驗 Logistic Regression
+</details>
 
-### 2. 資料科學特徵工程技術
+<details>
+<summary>### 2. 資料科學特徵工程技術</summary>
   #### Day_017 特徵工程簡介
   #### Day_018 特徵類型
   #### Day_019 數值型特徵 - 補缺失值與標準化
@@ -33,3 +35,16 @@
   #### Day_028 特徵選擇
   #### Day_029 特徵評估
   #### Day_030 分類型特徵優化 - 葉編碼
+</details>
+
+<details>
+<summary>### 3. 機器學習基礎模型建立</summary>
+  #### Day_031 機器學習概論
+  #### Day_031 
+  #### Day_031 
+  #### Day_031 
+  #### Day_031 
+  #### Day_031 
+  #### Day_031 
+</details>
+  
