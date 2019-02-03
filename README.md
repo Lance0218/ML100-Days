@@ -1,6 +1,6 @@
 # ML100-Days
 <details>
-<summary>### 1. 資料清理數據前處理</summary>
+<summary>1. 資料清理數據前處理</summary>
   
   #### Day_001 資料介紹與評估指標
   #### Day_002 EDA-1/讀取資料 EDA: Data summary
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary>### 2. 資料科學特徵工程技術</summary>
+<summary>2. 資料科學特徵工程技術</summary>
   
   #### Day_017 特徵工程簡介
   #### Day_018 特徵類型
@@ -40,14 +40,21 @@
 </details>
 
 <details>
-<summary>### 3. 機器學習基礎模型建立</summary>
+<summary>3. 機器學習基礎模型建立</summary>
   
   #### Day_031 機器學習概論
-  #### Day_031 
-  #### Day_031 
-  #### Day_031 
-  #### Day_031 
-  #### Day_031 
-  #### Day_031 
+  #### Day_032 機器學習-流程與步驟
+  #### Day_033 機器如何學習? 
+  #### Day_034 
+  #### Day_035 
+  #### Day_036 
+  #### Day_037 
+  #### Day_038 
+  #### Day_039 
+  #### Day_040 
+  #### Day_041 
+  #### Day_042 
+  #### Day_043 
+  #### Day_044 
 </details>
   
