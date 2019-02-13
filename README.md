@@ -45,16 +45,23 @@
   #### Day_031 機器學習概論
   #### Day_032 機器學習-流程與步驟
   #### Day_033 機器如何學習? 
-  #### Day_034 
-  #### Day_035 
-  #### Day_036 
-  #### Day_037 
-  #### Day_038 
-  #### Day_039 
-  #### Day_040 
-  #### Day_041 
-  #### Day_042 
-  #### Day_043 
-  #### Day_044 
+  #### Day_034 訓練/測試集切分的概念
+  #### Day_035 regression vs. classification
+  #### Day_036 評估指標選定/evaluation metrics
+  #### Day_037 regression model 介紹 - 線性迴歸/羅吉斯回歸
+  #### Day_038 regression model 程式碼撰寫
+  #### Day_039 regression model 介紹 - LASSO 回歸/ Ridge 回歸
+  #### Day_040 regression model 程式碼撰寫
+  #### Day_041 tree based model - 決策樹 (Decision Tree) 模型介紹
+  #### Day_042 tree based model - 決策樹程式碼撰寫
+  #### Day_043 tree based model - 隨機森林 (Random Forest) 介紹
+  #### Day_044 tree based model - 隨機森林程式碼撰寫
+  #### Day_045 tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
+  #### Day_046 tree based model - 梯度提升機程式碼撰寫
 </details>
+
+<summary>4. 機器學習調整參數</summary>
   
+  #### Day_047 超參數調整與優化
+  #### Day_048 Kaggle 競賽平台介紹
+</details>
