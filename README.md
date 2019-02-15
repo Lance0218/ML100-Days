@@ -1,4 +1,13 @@
 # ML100-Days
+## Kaggle
+<details>
+<summary>Kaggle第一次期中考 考ML與調參相關</summary>
+  
+  #### Day_048 [Data Science London + Scikit小練習](https://github.com/Lance0218/ML100-Days/blob/master/kaggle/Kaggle_Data%20Science%20London%20%2B%20Scikit-learn.ipynb)
+  #### Day_049~053 
+</details>
+
+## Homework
 <details>
 <summary>1. 資料清理數據前處理</summary>
   
