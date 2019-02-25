@@ -1,9 +1,9 @@
 # ML100-Days
 ## Kaggle
 
-### Day_048 [Data Science London + Scikit小練習](https://github.com/Lance0218/ML100-Days/blob/master/kaggle/Kaggle_Data%20Science%20London%20%2B%20Scikit-learn.ipynb)
+### Day_048 [Data Science London + Scikit小練習](https://github.com/Lance0218/ML100-Days/tree/master/kaggle/Kaggle_Data%20Science%20London%20%2B%20Scikit-learn)
 
-### Day_049~053 
+### Day_049~053 [Enron Fraud Dataset](https://github.com/Lance0218/ML100-Days/tree/master/kaggle/Kaggle_Enron%20Fraud%20Dataset)(27%: 25/95)
 
 ## Homework
 <details>
