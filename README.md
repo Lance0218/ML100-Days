@@ -72,6 +72,7 @@
   #### Day_048 Kaggle 競賽平台介紹
 </details>
 
+<details>
 <summary>5. 非監督式機器學習</summary>
   
   #### Day_054 clustering 1 非監督式機器學習簡介
