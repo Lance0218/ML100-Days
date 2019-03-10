@@ -82,4 +82,14 @@
   #### Day_058 clustering 4 階層分群法
   #### Day_059 dimension reduction 1 降維方法-主成份分析
   #### Day_060 dimension reduction 1 降維方法-主成份分析
+  #### Day_061 dimension reduction 2 降維方法-T-SNE
+  #### Day_062 dimension reduction 2 降維方法-T-SNE
+</details>
+
+<details>
+<summary>6. 深度學習理論與實作</summary>
+  
+  #### Day_063 神經網路介紹
+  #### Day_064 OPENCV
+  #### Day_065 Word2Vec
 </details>
