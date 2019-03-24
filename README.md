@@ -93,3 +93,34 @@
   #### Day_064 OPENCV
   #### Day_065 Word2Vec
 </details>
+
+<details>
+<summary>7. 初探深度學習使用Keras</summary>
+  
+  #### Day_066 Keras 安裝與介紹
+  #### Day_067 Keras Dataset
+  #### Day_068 Keras Sequential API全螢幕瀏覽
+  #### Day_069 Keras Module API
+  #### Day_070 Multi-layer Perception多層感知
+  #### Day_071 損失函數
+  #### Day_072 激活函數
+  #### Day_073 Gradient Descent
+  #### Day_074 Gradient Descent 數學原理
+  #### Day_075 BackPropagation
+  #### Day_076 optimizers
+  #### Day_077 訓練神經網路的細節與技巧 - Validation and overfit
+  #### Day_078 訓練神經網路前的注意事項
+  #### Day_079 訓練神經網路的細節與技巧 - Learning rate effect
+  #### Day_080 Compare different combinations of optimizers & learning rates
+  #### Day_081 
+  #### Day_082 
+  #### Day_083 
+  #### Day_084 
+  #### Day_085 
+  #### Day_086 
+  #### Day_087 
+  #### Day_088 
+  #### Day_089 
+  #### Day_090
+  #### Day_091 
+</details>
