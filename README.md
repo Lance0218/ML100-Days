@@ -1,7 +1,7 @@
 # ML100-Days
 ## Kaggle
 
-### [Enron Fraud Dataset](https://github.com/Lance0218/ML100-Days/tree/master/kaggle/Kaggle_Enron%20Fraud%20Dataset)(27%: 25/95)
+### [Enron Fraud Dataset](https://github.com/Lance0218/ML100-Days/tree/master/kaggle/Kaggle_Enron%20Fraud%20Dataset)
 
 ## Homework
 <details>
