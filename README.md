@@ -112,15 +112,15 @@
   #### Day_078 訓練神經網路前的注意事項
   #### Day_079 訓練神經網路的細節與技巧 - Learning rate effect
   #### Day_080 Compare different combinations of optimizers & learning rates
-  #### Day_081 
-  #### Day_082 
-  #### Day_083 
-  #### Day_084 
-  #### Day_085 
-  #### Day_086 
-  #### Day_087 
-  #### Day_088 
-  #### Day_089 
-  #### Day_090
-  #### Day_091 
+  #### Day_081 訓練神經網路的細節與技巧 - Regularization
+  #### Day_082 訓練神經網路的細節與技巧 - Dropout
+  #### Day_083 訓練神經網路的細節與技巧 - Batch normalization全螢幕瀏覽
+  #### Day_084 Comparing combinations of Activation function, optimizer and batch_norm or not
+  #### Day_085 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+  #### Day_086 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+  #### Day_087 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+  #### Day_088 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+  #### Day_089 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+  #### Day_090 使用傳統電腦視覺與機器學習進行影像辨識
+  #### Day_091 使用傳統電腦視覺與機器學習進行影像辨識
 </details>
