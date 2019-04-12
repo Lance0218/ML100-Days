@@ -124,3 +124,18 @@
   #### Day_090 使用傳統電腦視覺與機器學習進行影像辨識
   #### Day_091 使用傳統電腦視覺與機器學習進行影像辨識
 </details>
+
+<details>
+<summary>8. 深度學習應用卷積神經網路</summary>
+  
+  #### Day_092 卷積神經網路 (Convolution Neural Network, CNN) 簡介
+  #### Day_093 卷積神經網路架構細節
+  #### Day_094 卷積神經網路 - 卷積(Convolution)層與參數調整
+  #### Day_095 卷積神經網路 - 池化(Pooling)層與參數調整
+  #### Day_096 Keras 中的 CNN layers
+  #### Day_097 使用 CNN 完成 CIFAR-10 資料集
+  #### Day_098 訓練卷積神經網路的細節與技巧 - 處理大量數據
+  #### Day_099 
+  #### Day_100 
+  #### Day_101 
+</details>
