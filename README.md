@@ -3,6 +3,8 @@
 
 ### [Enron Fraud Dataset](https://github.com/Lance0218/ML100-Days/tree/master/kaggle/Kaggle_Enron%20Fraud%20Dataset)
 
+### [Kaggle_Flower Identification](https://github.com/Lance0218/ML100-Days/blob/master/kaggle/Kaggle_Flower%20Identification/datagen_10_0.2_inceptionv3_val_acc.ipynb)
+
 ## Homework
 <details>
 <summary>1. 資料清理數據前處理</summary>
